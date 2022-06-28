@@ -1,3 +1,5 @@
+Il s'agit du projet [Dragon Console](https://github.com/bbuck/DragonConsole) légèrement modifié pour le projet PING.
+
 # Dragon Console
 
 ## Preview
